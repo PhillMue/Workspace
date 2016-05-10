@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;toyproblem.vowelCount&apos; to &apos;VowelCount&apos;&#x0A;- Original project: &apos;toy problem2&apos;&#x0A;- Original element: &apos;toyproblem.vowelCount&apos;&#x0A;- Renamed element: &apos;toyproblem.VowelCount&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;vowelCount&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;toyproblem{vowelCount.java[vowelCount" matchStrategy="1" name="VowelCount" qualified="false" references="true" similarDeclarations="false" stamp="1454392740424" textual="false" version="1.0"/>
+</session>
